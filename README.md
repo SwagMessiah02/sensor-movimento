@@ -1,6 +1,6 @@
 # Sensor de movimento
 
-<p align='center'> Implementação de um sensor de movimento com o MPU9050</p>
+<p align='center'> Implementação de um sensor de movimento com o MPU6050</p>
 
 ## Pinos utilizados
 
